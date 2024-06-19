@@ -1,1 +1,10 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
+.logo {
+  width: 1024;
+  height: 512;
+}
