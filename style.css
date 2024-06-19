@@ -5,6 +5,11 @@ img {
 }
 
 .logo {
-  width: 1024;
-  height: 512;
+  width: 250;
+  height: 150;
+}
+
+.navigation-bar ul {
+  padding: 0px;
+  margin: 0px;  
 }
