@@ -1,2 +1,0 @@
-# qma.github.io
-Website.
