@@ -1,6 +1,8 @@
 .logo {
   display: inline-block;
   vertical-align: top;
+  margin-right: 20px;
+  margin-top: 15px;
   float: left;
   width: 250;
   height: 150;
