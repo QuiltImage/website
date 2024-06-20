@@ -19,6 +19,7 @@ body {
 }
 
 .navigation-bar li {
+  list-style-type: none;
   float:left
 }
 
@@ -28,6 +29,7 @@ body {
   display: inline-block;
   text-align: center;
   vertical-align: top;
+  position: fixed;
 }
 
 .navigation-bar {
