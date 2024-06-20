@@ -6,6 +6,8 @@ img {
 
 .logo {
   float: left;
+  width: 250;
+  height: 150;
 }
 
 .navigation-bar ul {
