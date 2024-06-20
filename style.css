@@ -15,6 +15,7 @@ body {
 
 .navigation-bar li a {
   display: block;
+  text-align: center;
   padding: 8px;
 }
 
