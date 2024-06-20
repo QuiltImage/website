@@ -13,8 +13,12 @@ body {
   height: 100%;
 }
 
-.navigation-bar li {
-  display: inline;
+.navigation-bar ul {
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
 }
 
 .navigation-bar {
