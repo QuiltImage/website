@@ -13,6 +13,11 @@ body {
   height: 100%;
 }
 
+li a {
+  display: block;
+  padding: 8px;
+}
+
 .navigation-bar li {
   float:left
 }
