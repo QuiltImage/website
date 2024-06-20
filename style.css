@@ -13,7 +13,7 @@ body {
   height: 100%;
 }
 
-li a {
+.navigation-bar li a {
   display: block;
   padding: 8px;
 }
