@@ -13,6 +13,13 @@ body {
   height: 100%;
 }
 
+.menu {
+}
+
+.menu li {
+  display: inline;
+}
+
 .navigation-bar {
   width: 100%;
   float: left;
